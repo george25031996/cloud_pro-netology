@@ -14,7 +14,7 @@
 
 ## Решение
 
-Манифесты terraform:
+Манифесты terraform: [yandex_cloud](https://github.com/george25031996/cloud_pro-netology/tree/main/yandex_cloud)
 
 Результат выполнения манифеста:
 
@@ -32,7 +32,7 @@
 
 Создал маршрут и закрепил для сети private:
 
-Манифест сети: 
+Манифест сети: [networks](https://github.com/george25031996/cloud_pro-netology/blob/main/yandex_cloud/networks.tf)
 
 ![Скрин 5](./images/5.png)
 
