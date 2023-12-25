@@ -16,7 +16,7 @@
 Проверить работоспособность, удалив одну или несколько ВМ.
 
 Решение:
-Terraform manifest: 
+Terraform manifest: [yandex_cloud](https://github.com/george25031996/cloud_pro-netology/tree/main/2.0/yandex_cloud) 
 
 Ресурсы:
 
