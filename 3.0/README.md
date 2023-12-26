@@ -6,7 +6,7 @@
 создать ключ в KMS;
 с помощью ключа зашифровать содержимое бакета, созданного ранее.
 
-Решение:
+Решение: [bucket](https://github.com/george25031996/cloud_pro-netology/blob/main/3.0/yandex_cloud/bucket.tf)
 
 Изменённый bucket:
 
